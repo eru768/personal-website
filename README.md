@@ -1,1 +1,1 @@
-A small WIP next.js website on firebase
+A small WIP next.js portfolio on firebase
